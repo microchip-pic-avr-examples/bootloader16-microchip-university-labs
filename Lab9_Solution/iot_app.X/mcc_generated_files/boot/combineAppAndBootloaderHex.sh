@@ -1,0 +1,1 @@
+hexmate r0-7FFF,../../../iot_boot.X/dist/default/production/iot_boot.X.production.hex r8000-2AFFF,../../dist/default/production/iot_app.X.production.hex r2B000-FFFFFFFF,../../../iot_boot.X/dist/default/production/iot_boot.X.production.hex -O../../dist/default/production/combined.production.hex
