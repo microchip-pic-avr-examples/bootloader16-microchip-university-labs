@@ -4,17 +4,17 @@
    "content":{
       "metaDataVersion":"1.3.0",
       "name":"com.microchip.mplabx.project.bootloader16-microchip-university-labs",
-      "version":"x.x.x",
-      "displayName":"xxxxxxxxxxxxxxx",
+      "version":"1.0.3",
+      "displayName":"Bootloader16 Lab Solutions for Microchip University Bootloader 16 labs",
       "projectName":"bootloader16-microchip-university-labs",
       "shortDescription":"xxxxxxxxxxxxxxx",
       "ide":{
          "name":"MPLABX",
-         "semverRange":">=5.40.0"
+         "semverRange":">=6.00.0"
       },
       "compiler":{
          "name":"XC16",
-         "semverRange":"^1.50.0"
+         "semverRange":"^1.60.0"
       },
       "dfp":{
          "name":"xxxxxxxxxxxxxxx",
@@ -22,7 +22,7 @@
       },
 	  "configurator": {
          "name": "MCC",
-         "semverRange": ">=4.0.1"
+         "semverRange": ">=5.1.1"
       },
       "device":{
          "metaDataVersion":"1.0.0",
@@ -35,11 +35,11 @@
          }
       },
 	  "peripherals":[
-         "GPIO",
+         "UART",
       ],
       "keywords":[
-         "GPIO",
-         "UART"
+         "Bootloader",
+         "MC16"
       ]
    }
 }
