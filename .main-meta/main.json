@@ -7,7 +7,7 @@
       "version":"1.0.3",
       "displayName":"Bootloader16 Lab Solutions for Microchip University Bootloader 16 labs",
       "projectName":"bootloader16-microchip-university-labs",
-      "shortDescription":"xxxxxxxxxxxxxxx",
+      "shortDescription":"Bootloader16 examples using different features",
       "ide":{
          "name":"MPLABX",
          "semverRange":">=6.00.0"
@@ -17,8 +17,8 @@
          "semverRange":"^1.60.0"
       },
       "dfp":{
-         "name":"xxxxxxxxxxxxxxx",
-         "semverRange":">=x.x.x"
+         "name":"PIC24F-GA-GB_DFP",
+         "semverRange":">=1.5.181"
       },
 	  "configurator": {
          "name": "MCC",
@@ -30,7 +30,7 @@
          "content":{
             "metaDataVersion":"1.0.0",
             "category":"com.microchip.device",
-            "name":"xxxxxxxxxxxxxxx",
+            "name":"PIC24FJ128GA705",
             "versionRange":"*"
          }
       },
