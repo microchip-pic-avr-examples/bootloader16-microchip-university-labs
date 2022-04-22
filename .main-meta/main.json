@@ -35,10 +35,10 @@
          }
       },
 	  "peripherals":[
+        "UART"
       ],
       "keywords":[
-         "Bootloader",
-         "MC16"
+         "Bootloader"
       ]
    }
 }
