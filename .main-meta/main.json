@@ -7,7 +7,7 @@
       "version":"1.0.3",
       "displayName":"Bootloader16 Lab Solutions for Microchip University Bootloader 16 labs",
       "projectName":"bootloader16-microchip-university-labs",
-      "shortDescription":"Bootloader16 examples using different features",
+      "shortDescription":"Bootloader16 examples using different verication methods including ECDSA",
       "ide":{
          "name":"MPLABX",
          "semverRange":">=6.00.0"
@@ -39,7 +39,12 @@
       ],
       "keywords":[
          "Bootloader",
-         "Bootloader16"
+         "Bootloader16",
+         "Checksum",
+         "CRC32",
+         "ECDSA",
+         "Secure Boot",
+         "UBHA"
       ]
    }
 }
