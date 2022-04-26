@@ -41,17 +41,27 @@
       ],
       "keywords":[
          "Bootloader",
+         "Firmware Upgrade",
+         "MCC",
          "Security",
          "CodeGuard Security",
+         "Code Protection",
          "Diffie Hellman",
+         "AES",
          "ECC608",
+         "ATECC608",
          "Getting Started",
          "HSM",
          "Secure Bootloader",
          "SHA",
          "SHA-256",
          "XC16",
-         "Certificate"
+         "Certificate",
+         "Private Key",
+         "Public Key",
+         "RSA",
+         "DH",
+         "UBHA"
          ]
    }
 }
