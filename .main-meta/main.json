@@ -35,16 +35,17 @@
          }
       },
 	  "peripherals":[
-        "UART"
+        "UART",
+         "Cryptographic Engine",
+         "CodeGuard Security"
       ],
       "keywords":[
          "Bootloader",
+         "Security",
+         "CodeGuard Flash Security",
+         "Hardware Security Module (HSM)",
          "Bootloader16",
-         "Checksum",
-         "CRC32",
-         "ECDSA",
-         "Secure Boot",
-         "UBHA"
-      ]
+         "Checksum"
+         ]
    }
 }
