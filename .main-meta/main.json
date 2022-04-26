@@ -42,10 +42,16 @@
       "keywords":[
          "Bootloader",
          "Security",
-         "CodeGuard Flash Security",
-         "Hardware Security Module (HSM)",
-         "Bootloader16",
-         "Checksum"
+         "CodeGuard Security",
+         "Diffie Hellman",
+         "ECC608",
+         "Getting Started",
+         "HSM",
+         "Secure Bootloader",
+         "SHA",
+         "SHA-256",
+         "XC16",
+         "Certificate"
          ]
    }
 }
