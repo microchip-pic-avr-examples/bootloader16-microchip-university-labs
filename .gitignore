@@ -5,6 +5,7 @@
 # Default gitignore files for code examples, only removing/ignoring usual MPLAB X® clutter
 
 # Excluding object files
+*.d
 *.o
 *.ko
 *.obj
@@ -33,7 +34,6 @@ disassembly/
 *.zip
 !code-templates.zip
 *.mk
-*.bash
 *.dump
 Makefile-genesis.properties
 
