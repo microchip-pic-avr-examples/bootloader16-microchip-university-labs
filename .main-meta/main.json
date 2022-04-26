@@ -38,7 +38,8 @@
         "UART"
       ],
       "keywords":[
-         "Bootloader"
+         "Bootloader",
+         "Bootloader16"
       ]
    }
 }
