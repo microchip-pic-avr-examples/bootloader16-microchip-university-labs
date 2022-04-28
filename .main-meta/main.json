@@ -39,12 +39,11 @@
       "keywords":[
          "Bootloader",
          "Firmware Upgrade",
+         "Secure Firmware Upgrade",
          "MCC",
          "Security",
          "CodeGuard Security",
          "Code Protection",
-         "Diffie Hellman",
-         "AES",
          "ECC608",
          "ATECC608",
          "Getting Started",
@@ -56,8 +55,6 @@
          "Certificate",
          "Private Key",
          "Public Key",
-         "RSA",
-         "DH",
          "UBHA"
          ]
    }
