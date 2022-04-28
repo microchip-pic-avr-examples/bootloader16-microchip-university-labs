@@ -34,9 +34,7 @@
             "versionRange":"*"
          }
       },
-	  "peripherals":[
-        "UART",
-         "CodeGuard Security"
+     "peripherals":[
       ],
       "keywords":[
          "Bootloader",
