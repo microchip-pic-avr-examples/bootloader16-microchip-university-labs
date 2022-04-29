@@ -7,7 +7,7 @@
       "version":"1.0.3",
       "displayName":"Bootloader16 Lab Solutions for Microchip University Bootloader 16 labs",
       "projectName":"bootloader16-microchip-university-labs",
-      "shortDescription":"Bootloader16 examples using different features",
+      "shortDescription":"Bootloader16 examples using different verication methods including ECDSA",
       "ide":{
          "name":"MPLABX",
          "semverRange":">=6.00.0"
@@ -34,11 +34,28 @@
             "versionRange":"*"
          }
       },
-	  "peripherals":[
-        "UART"
+     "peripherals":[
       ],
       "keywords":[
-         "Bootloader"
-      ]
+         "Bootloader",
+         "Firmware Upgrade",
+         "Secure Firmware Upgrade",
+         "MCC",
+         "Security",
+         "CodeGuard Security",
+         "Code Protection",
+         "ECC608",
+         "ATECC608",
+         "Getting Started",
+         "HSM",
+         "Secure Bootloader",
+         "SHA",
+         "SHA-256",
+         "XC16",
+         "Certificate",
+         "Private Key",
+         "Public Key",
+         "UBHA"
+         ]
    }
 }
