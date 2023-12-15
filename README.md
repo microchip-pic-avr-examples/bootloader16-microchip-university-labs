@@ -4,7 +4,8 @@
 
 
 ## Summary
-Bootloader 16 Lab manual and finished labs from Microchip University
+Bootloader 16 Lab manual and finished labs from Microchip University.  Please visit the below URL for the presentation associated with this lab material:
+https://mu.microchip.com/16-bit-bootloaders-using-mcc-device-side
 
 ## Related Documentation
 
@@ -27,7 +28,6 @@ Bootloader 16 Lab manual and finished labs from Microchip University
 These labs assume that the user has the above SW installed and one of the boards listed.
 
 ## Operation
-
-See the lab manual 
+See the lab manual.
 
 
